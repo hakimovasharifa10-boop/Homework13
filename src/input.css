@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.bg-box {
+    background-image: url('../images/master.png');
+}
